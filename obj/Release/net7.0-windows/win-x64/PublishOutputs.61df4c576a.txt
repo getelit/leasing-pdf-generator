@@ -1,0 +1,9 @@
+C:\Users\Jendos\Desktop\program\LeasingOffers.pdb
+C:\Users\Jendos\Desktop\program\D3DCompiler_47_cor3.dll
+C:\Users\Jendos\Desktop\program\PenImc_cor3.dll
+C:\Users\Jendos\Desktop\program\PresentationNative_cor3.dll
+C:\Users\Jendos\Desktop\program\vcruntime140_cor3.dll
+C:\Users\Jendos\Desktop\program\wpfgfx_cor3.dll
+C:\Users\Jendos\Desktop\program\sni.dll
+C:\Users\Jendos\Desktop\program\SQLite.Interop.dll
+C:\Users\Jendos\Desktop\program\LeasingOffers.exe
